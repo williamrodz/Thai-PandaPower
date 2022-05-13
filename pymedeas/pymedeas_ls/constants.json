@@ -1,0 +1,842 @@
+{
+    "J30": {
+    "old_name": "activate_exogenous_res_elec_cp_reduction_quest",
+    "new_name": "activate_exogenous_res_elec_cp_reduction_quest"
+    },
+    "E243": {
+        "old_name": "start year modification ei",
+        "new_name": "start_year_modification_ei"
+    },
+    "G167": {
+        "old_name": "target year policy phase out ff for elec",
+        "new_name": "target_year_policy_phase_out_ff_for_elec"
+    },
+    "C167": {
+        "old_name": "phase out oil for electricity quest",
+        "new_name": "phase_out_oil_for_electricity_quest"
+    },
+    "E167": {
+        "old_name": "start year policy phase out oil for elec",
+        "new_name": "start_year_policy_phase_out_oil_for_elec"
+    },
+    "I167": {
+        "old_name": "share in target year ff for elec",
+        "new_name": "share_in_target_year_ff_for_elec"
+    },
+    "C195": {
+        "old_name": "choose final sectoral energy intensities evolution method",
+        "new_name": "choose_final_sectoral_energy_intensities_evolution_method"
+    },
+    "B243": {
+        "old_name": "final year target h",
+        "new_name": "final_year_target_h"
+    },
+    "C249": {
+        "old_name": "year change pct energy intensity target",
+        "new_name": "year_change_pct_energy_intensity_target"
+    },
+    "C200": {
+        "old_name": "percentage of change over the historic maximun variation of energy intensities 0",
+        "new_name": "percentage_of_change_over_the_historic_maximun_variation_of_energy_intensities_0"
+    },
+    "DL207": {
+        "old_name": "activate bottom up method",
+        "new_name": "activate_bottom_up_method"
+    },
+    "C199": {
+        "old_name": "min energy intensity vs intial h",
+        "new_name": "min_energy_intensity_vs_intial_h"
+    },
+    "C204": {
+        "old_name": "year to finish energy intensity policies",
+        "new_name": "year_to_finish_energy_intensity_policies"
+    },
+    "B256": {
+        "old_name": "activate scarcity feedback final fuel replacement quest",
+        "new_name": "activate_scarcity_feedback_final_fuel_replacement_quest"
+    },
+    "C205": {
+        "old_name": "year to finish energy intensity policies h",
+        "new_name": "year_to_finish_energy_intensity_policies_h"
+    },
+    "B203": {
+        "old_name": "choose policies of intensities global or by sector",
+        "new_name": "choose_policies_of_intensities_global_or_by_sector"
+    },
+    "FY207": {
+        "old_name": "activate transport h bottom up method",
+        "new_name": "activate_transport_h_bottom_up_method"
+    },
+    "C250": {
+        "old_name": "pct change energy intensity target",
+        "new_name": "pct_change_energy_intensity_target"
+    },
+    "C241": {
+        "old_name": "choose energy intensity target method",
+        "new_name": "choose_energy_intensity_target_method"
+    },
+    "C257": {
+        "old_name": "sensitivity to scarcity option",
+        "new_name": "sensitivity_to_scarcity_option"
+    },
+    "F257": {
+        "old_name": "sensitivity to scarcity option h",
+        "new_name": "sensitivity_to_scarcity_option_h"
+    },
+    "C260": {
+        "old_name": "energy scarcity forgetting time",
+        "new_name": "energy_scarcity_forgetting_time"
+    },
+    "F260": {
+        "old_name": "energy scarcity forgetting time h",
+        "new_name": "energy_scarcity_forgetting_time_h"
+    },
+    "D325": {
+        "old_name": "limited coal imports from row quest",
+        "new_name": "limited_coal_imports_from_row_quest"
+    },
+    "D321": {
+        "old_name": "limited natx gasx imports from row quest",
+        "new_name": "limited_natx_gasx_imports_from_row_quest"
+    },
+    "D317": {
+        "old_name": "limited oil imports from row quest",
+        "new_name": "limited_oil_imports_from_row_quest"
+    },
+    "F319": {
+        "old_name": "max share imports oil aut",
+        "new_name": "max_share_imports_oil_aut"
+    },
+    "F327": {
+        "old_name": "max share imports coal aut",
+        "new_name": "max_share_imports_coal_aut"
+    },
+    "F323": {
+        "old_name": "max share imports natx gasx aut",
+        "new_name": "max_share_imports_natx_gasx_aut"
+    },
+    "E177": {
+        "old_name": "p percent subs",
+        "new_name": "p_percent_subs"
+    },
+    "C178": {
+        "old_name": "p percent hyb hveh",
+        "new_name": "p_percent_hyb_hveh"
+    },
+    "C179": {
+        "old_name": "p percent gas hveh",
+        "new_name": "p_percent_gas_hveh"
+    },
+    "C42": {
+        "old_name": "max additional potential land for biofuels xcompetx",
+        "new_name": "max_additional_potential_land_for_biofuels_xcompetx"
+    },
+    "G8": {
+        "old_name": "p gdppc asymptote",
+        "new_name": "p_gdppc_asymptote"
+    },
+    "I8": {
+        "old_name": "target year gdppc asymptote",
+        "new_name": "target_year_gdppc_asymptote"
+    },
+    "G15": {
+        "old_name": "p pop asymptote millions",
+        "new_name": "p_pop_asymptote_millions"
+    },
+    "I15": {
+        "old_name": "target year pop asymptote",
+        "new_name": "target_year_pop_asymptote"
+    },
+    "C271": {
+        "old_name": "p variation primary forest",
+        "new_name": "p_variation_primary_forest"
+    },
+    "E271": {
+        "old_name": "start year p variation primary forest",
+        "new_name": "start_year_p_variation_primary_forest"
+    },
+    "C275": {
+        "old_name": "start year p urban land density",
+        "new_name": "start_year_p_urban_land_density"
+    },
+    "C276": {
+        "old_name": "target year p urban land density",
+        "new_name": "target_year_p_urban_land_density"
+    },
+    "C274": {
+        "old_name": "p urban land density",
+        "new_name": "p_urban_land_density"
+    },
+    "C3": {
+        "old_name": "p labour share",
+        "new_name": "p_labour_share"
+    },
+    "B4": {
+        "old_name": "select gdppc evolution input",
+        "new_name": "select_gdppc_evolution_input"
+    },
+    "F3": {
+        "old_name": "p capital share",
+        "new_name": "p_capital_share"
+    },
+    "G7": {
+        "old_name": "p customized cte gdppc variation",
+        "new_name": "p_customized_cte_gdppc_variation"
+    },
+    "E7": {
+        "old_name": "p customized year gdppc evolution",
+        "new_name": "p_customized_year_gdppc_evolution"
+    },
+    "J116": {
+        "old_name": "choose gwp time frame",
+        "new_name": "choose_gwp_time_frame"
+    },
+    "G30": {
+        "old_name": "share available roof for solar thermal",
+        "new_name": "share_available_roof_for_solar_thermal"
+    },
+    "F35": {
+        "old_name": "p share installed pv urban vs tot pv",
+        "new_name": "p_share_installed_pv_urban_vs_tot_pv"
+    },
+    "G24": {
+        "old_name": "f1 pv solar in target year",
+        "new_name": "f1_pv_solar_in_target_year"
+    },
+    "K24": {
+        "old_name": "av solar i",
+        "new_name": "av_solar_i"
+    },
+    "G28": {
+        "old_name": "share available roof",
+        "new_name": "share_available_roof"
+    },
+    "G29": {
+        "old_name": "share available roof for rooftop pv",
+        "new_name": "share_available_roof_for_rooftop_pv"
+    },
+    "G25": {
+        "old_name": "start year p f1 solar pv",
+        "new_name": "start_year_p_f1_solar_pv"
+    },
+    "G26": {
+        "old_name": "target year f1 solar pv",
+        "new_name": "target_year_f1_solar_pv"
+    },
+    "C43": {
+        "old_name": "potential marginal lands mha",
+        "new_name": "potential_marginal_lands_mha"
+    },
+    "F46": {
+        "old_name": "p biofuels marg lands",
+        "new_name": "p_biofuels_marg_lands"
+    },
+    "C58": {
+        "old_name": "start year p growth res heat",
+        "new_name": "start_year_p_growth_res_heat"
+    },
+    "F32": {
+        "old_name": "start year p growth res elec",
+        "new_name": "start_year_p_growth_res_elec"
+    },
+    "I168": {
+        "old_name": "share in target year oil for heat",
+        "new_name": "share_in_target_year_oil_for_heat"
+    },
+    "G168": {
+        "old_name": "target year policy phase out oil for heat",
+        "new_name": "target_year_policy_phase_out_oil_for_heat"
+    },
+    "E168": {
+        "old_name": "start year policy phase out oil for heat",
+        "new_name": "start_year_policy_phase_out_oil_for_heat"
+    },
+    "E303": {
+        "old_name": "p rr ti rest",
+        "new_name": "p_rr_ti_rest"
+    },
+    "E294": {
+        "old_name": "p rr li rest",
+        "new_name": "p_rr_li_rest"
+    },
+    "E304": {
+        "old_name": "p rr v rest",
+        "new_name": "p_rr_v_rest"
+    },
+    "E295": {
+        "old_name": "p rr mg rest",
+        "new_name": "p_rr_mg_rest"
+    },
+    "E305": {
+        "old_name": "p rr zn rest",
+        "new_name": "p_rr_zn_rest"
+    },
+    "E288": {
+        "old_name": "p rr cd rest",
+        "new_name": "p_rr_cd_rest"
+    },
+    "E290": {
+        "old_name": "p rr cu rest",
+        "new_name": "p_rr_cu_rest"
+    },
+    "B286": {
+        "old_name": "start year p rr minerals alt techn",
+        "new_name": "start_year_p_rr_minerals_alt_techn"
+    },
+    "E292": {
+        "old_name": "p rr in rest",
+        "new_name": "p_rr_in_rest"
+    },
+    "E302": {
+        "old_name": "p rr te rest",
+        "new_name": "p_rr_te_rest"
+    },
+    "E297": {
+        "old_name": "p rr mo rest",
+        "new_name": "p_rr_mo_rest"
+    },
+    "E300": {
+        "old_name": "p rr ag rest",
+        "new_name": "p_rr_ag_rest"
+    },
+    "E296": {
+        "old_name": "p rr mn rest",
+        "new_name": "p_rr_mn_rest"
+    },
+    "E287": {
+        "old_name": "p rr al rest",
+        "new_name": "p_rr_al_rest"
+    },
+    "B285": {
+        "old_name": "target year p rr minerals alt techn",
+        "new_name": "target_year_p_rr_minerals_alt_techn"
+    },
+    "E291": {
+        "old_name": "p rr ga rest",
+        "new_name": "p_rr_ga_rest"
+    },
+    "E301": {
+        "old_name": "p rr sn rest",
+        "new_name": "p_rr_sn_rest"
+    },
+    "E299": {
+        "old_name": "p rr pb rest",
+        "new_name": "p_rr_pb_rest"
+    },
+    "E289": {
+        "old_name": "p rr cr rest",
+        "new_name": "p_rr_cr_rest"
+    },
+    "E298": {
+        "old_name": "p rr ni rest",
+        "new_name": "p_rr_ni_rest"
+    },
+    "E293": {
+        "old_name": "p rr fe rest",
+        "new_name": "p_rr_fe_rest"
+    },
+    "D295": {
+        "old_name": "p rr mg alt techn",
+        "new_name": "p_rr_mg_alt_techn"
+    },
+    "D296": {
+        "old_name": "p rr mn alt techn",
+        "new_name": "p_rr_mn_alt_techn"
+    },
+    "D297": {
+        "old_name": "p rr mo alt techn",
+        "new_name": "p_rr_mo_alt_techn"
+    },
+    "D298": {
+        "old_name": "p rr ni alt techn",
+        "new_name": "p_rr_ni_alt_techn"
+    },
+    "D299": {
+        "old_name": "p rr pb alt techn",
+        "new_name": "p_rr_pb_alt_techn"
+    },
+    "D287": {
+        "old_name": "p rr al alt techn",
+        "new_name": "p_rr_al_alt_techn"
+    },
+    "D288": {
+        "old_name": "p rr cd alt techn",
+        "new_name": "p_rr_cd_alt_techn"
+    },
+    "D290": {
+        "old_name": "p rr cu alt techn",
+        "new_name": "p_rr_cu_alt_techn"
+    },
+    "D293": {
+        "old_name": "p rr fe alt techn",
+        "new_name": "p_rr_fe_alt_techn"
+    },
+    "D291": {
+        "old_name": "p rr ga alt techn",
+        "new_name": "p_rr_ga_alt_techn"
+    },
+    "D292": {
+        "old_name": "p rr in alt techn",
+        "new_name": "p_rr_in_alt_techn"
+    },
+    "D294": {
+        "old_name": "p rr li alt techn",
+        "new_name": "p_rr_li_alt_techn"
+    },
+    "D304": {
+        "old_name": "p rr v alt techn",
+        "new_name": "p_rr_v_alt_techn"
+    },
+    "D305": {
+        "old_name": "p rr zn alt techn",
+        "new_name": "p_rr_zn_alt_techn"
+    },
+    "D303": {
+        "old_name": "p rr ti alt techn",
+        "new_name": "p_rr_ti_alt_techn"
+    },
+    "D289": {
+        "old_name": "p rr cr alt techn",
+        "new_name": "p_rr_cr_alt_techn"
+    },
+    "D300": {
+        "old_name": "p rr ag alt techn",
+        "new_name": "p_rr_ag_alt_techn"
+    },
+    "D301": {
+        "old_name": "p rr sn alt techn",
+        "new_name": "p_rr_sn_alt_techn"
+    },
+    "D302": {
+        "old_name": "p rr te alt techn",
+        "new_name": "p_rr_te_alt_techn"
+    },
+    "G116": {
+        "old_name": "choose rcp",
+        "new_name": "choose_rcp"
+    },
+    "D283": {
+        "old_name": "choose targets mineral recycling rates",
+        "new_name": "choose_targets_mineral_recycling_rates"
+    },
+    "C270": {
+        "old_name": "p minimum forest",
+        "new_name": "p_minimum_forest"
+    },
+    "C268": {
+        "old_name": "p forest overexplotation",
+        "new_name": "p_forest_overexplotation"
+    },
+    "C175": {
+        "old_name": "t fin inlandt",
+        "new_name": "t_fin_inlandt"
+    },
+    "C173": {
+        "old_name": "t fin hveh",
+        "new_name": "t_fin_hveh"
+    },
+    "C172": {
+        "old_name": "t ini hveh",
+        "new_name": "t_ini_hveh"
+    },
+    "F308": {
+        "old_name": "start year p common rr minerals alt techn",
+        "new_name": "start_year_p_common_rr_minerals_alt_techn"
+    },
+    "F307": {
+        "old_name": "start year p common rr minerals rest",
+        "new_name": "start_year_p_common_rr_minerals_rest"
+    },
+    "D11": {
+        "old_name": "select pop ssps",
+        "new_name": "select_pop_ssps"
+    },
+    "E14": {
+        "old_name": "p customized year pop evolution",
+        "new_name": "p_customized_year_pop_evolution"
+    },
+    "B11": {
+        "old_name": "select population evolution input",
+        "new_name": "select_population_evolution_input"
+    },
+    "G14": {
+        "old_name": "p customized cte pop variation",
+        "new_name": "p_customized_cte_pop_variation"
+    },
+    "F33": {
+        "old_name": "target year p growth res elec",
+        "new_name": "target_year_p_growth_res_elec"
+    },
+    "C59": {
+        "old_name": "target year p growth res heat",
+        "new_name": "target_year_p_growth_res_heat"
+    },
+    "F37": {
+        "old_name": "p phs growth",
+        "new_name": "p_phs_growth"
+    },
+    "D112": {
+        "old_name": "crash programme gtl quest",
+        "new_name": "crash_programme_gtl_quest"
+    },
+    "C312": {
+        "old_name": "activate eroi fc system feedback quest",
+        "new_name": "activate_eroi_fc_system_feedback_quest"
+    },
+    "C168": {
+        "old_name": "phase out oil for heat quest",
+        "new_name": "phase_out_oil_for_heat_quest"
+    },
+    "D110": {
+        "old_name": "crash programme ctl quest",
+        "new_name": "crash_programme_ctl_quest"
+    },
+    "C177": {
+        "old_name": "p percent elec hveh",
+        "new_name": "p_percent_elec_hveh"
+    },
+    "C191": {
+        "old_name": "p percent train elec",
+        "new_name": "p_percent_train_elec"
+    },
+    "C184": {
+        "old_name": "p percent hv gas",
+        "new_name": "p_percent_hv_gas"
+    },
+    "C174": {
+        "old_name": "t ini inlandt",
+        "new_name": "t_ini_inlandt"
+    },
+    "C171": {
+        "old_name": "activate policy inlandt",
+        "new_name": "activate_policy_inlandt"
+    },
+    "C185": {
+        "old_name": "p percent lv elec",
+        "new_name": "p_percent_lv_elec"
+    },
+    "C186": {
+        "old_name": "p percent lv hyb",
+        "new_name": "p_percent_lv_hyb"
+    },
+    "C188": {
+        "old_name": "p percent bus elec",
+        "new_name": "p_percent_bus_elec"
+    },
+    "C190": {
+        "old_name": "p percent bus gas",
+        "new_name": "p_percent_bus_gas"
+    },
+    "C189": {
+        "old_name": "p percent bus hyb",
+        "new_name": "p_percent_bus_hyb"
+    },
+    "C183": {
+        "old_name": "p percent hv hyb",
+        "new_name": "p_percent_hv_hyb"
+    },
+    "C187": {
+        "old_name": "p percent lv gas",
+        "new_name": "p_percent_lv_gas"
+    },
+    "C170": {
+        "old_name": "activate policy h transp",
+        "new_name": "activate_policy_h_transp"
+    },
+    "C180": {
+        "old_name": "p percent 2w elec",
+        "new_name": "p_percent_2w_elec"
+    },
+    "C181": {
+        "old_name": "p share 2wheelers",
+        "new_name": "p_share_2wheelers"
+    },
+    "F45": {
+        "old_name": "start year biofuels land marg",
+        "new_name": "start_year_biofuels_land_marg"
+    },
+    "C32": {
+        "old_name": "p hydro growth",
+        "new_name": "p_hydro_growth"
+    },
+    "C38": {
+        "old_name": "p solar pv growth",
+        "new_name": "p_solar_pv_growth"
+    },
+    "C35": {
+        "old_name": "p oceanic growth",
+        "new_name": "p_oceanic_growth"
+    },
+    "C34": {
+        "old_name": "p solid bioe elec growth",
+        "new_name": "p_solid_bioe_elec_growth"
+    },
+    "F38": {
+        "old_name": "p csp growth",
+        "new_name": "p_csp_growth"
+    },
+    "C37": {
+        "old_name": "p wind offshore growth",
+        "new_name": "p_wind_offshore_growth"
+    },
+    "C36": {
+        "old_name": "p wind onshore growth",
+        "new_name": "p_wind_onshore_growth"
+    },
+    "C33": {
+        "old_name": "p geot growth",
+        "new_name": "p_geot_growth"
+    },
+    "C62": {
+        "old_name": "p solid bioe for heat",
+        "new_name": "p_solid_bioe_for_heat"
+    },
+    "C307": {
+        "old_name": "p common rr minerals variation rest",
+        "new_name": "p_common_rr_minerals_variation_rest"
+    },
+    "C308": {
+        "old_name": "p common rr minerals variation alt techn",
+        "new_name": "p_common_rr_minerals_variation_alt_techn"
+    },
+    "F53": {
+        "old_name": "p waste change",
+        "new_name": "p_waste_change"
+    },
+    "F52": {
+        "old_name": "max pe waste",
+        "new_name": "max_pe_waste"
+    },
+    "C26": {
+        "old_name": "max potential phs twe",
+        "new_name": "max_potential_phs_twe"
+    },
+    "F128": {
+        "old_name": "share rurr tot agg gas to leave underground",
+        "new_name": "share_rurr_tot_agg_gas_to_leave_underground"
+    },
+    "F126": {
+        "old_name": "start policy leave in ground tot agg gas",
+        "new_name": "start_policy_leave_in_ground_tot_agg_gas"
+    },
+    "F122": {
+        "old_name": "start policy leave in ground tot agg oil",
+        "new_name": "start_policy_leave_in_ground_tot_agg_oil"
+    },
+    "F124": {
+        "old_name": "share rurr tot agg oil to leave underground",
+        "new_name": "share_rurr_tot_agg_oil_to_leave_underground"
+    },
+    "C130": {
+        "old_name": "start policy leave in ground coal",
+        "new_name": "start_policy_leave_in_ground_coal"
+    },
+    "C129": {
+        "old_name": "share rurr unconv gas to leave underground",
+        "new_name": "share_rurr_unconv_gas_to_leave_underground"
+    },
+    "C125": {
+        "old_name": "share rurr unconv oil to leave underground",
+        "new_name": "share_rurr_unconv_oil_to_leave_underground"
+    },
+    "C123": {
+        "old_name": "share rurr conv oil to leave underground",
+        "new_name": "share_rurr_conv_oil_to_leave_underground"
+    },
+    "C128": {
+        "old_name": "start policy leave in ground unconv gas",
+        "new_name": "start_policy_leave_in_ground_unconv_gas"
+    },
+    "C124": {
+        "old_name": "start policy leave in ground unconv oil",
+        "new_name": "start_policy_leave_in_ground_unconv_oil"
+    },
+    "C122": {
+        "old_name": "start policy leave in ground conv oil",
+        "new_name": "start_policy_leave_in_ground_conv_oil"
+    },
+    "C131": {
+        "old_name": "share rurr coal to leave underground",
+        "new_name": "share_rurr_coal_to_leave_underground"
+    },
+    "C127": {
+        "old_name": "share rurr conv gas to leave underground",
+        "new_name": "share_rurr_conv_gas_to_leave_underground"
+    },
+    "C126": {
+        "old_name": "start policy leave in ground conv gas",
+        "new_name": "start_policy_leave_in_ground_conv_gas"
+    },
+    "E66": {
+        "old_name": "unlimited nre quest",
+        "new_name": "unlimited_nre_quest"
+    },
+    "C53": {
+        "old_name": "p biogas",
+        "new_name": "p_biogas"
+    },
+    "C52": {
+        "old_name": "max pe biogas ej",
+        "new_name": "max_pe_biogas_ej"
+    },
+    "C61": {
+        "old_name": "p geothermal for heat",
+        "new_name": "p_geothermal_for_heat"
+    },
+    "C60": {
+        "old_name": "p solar for heat",
+        "new_name": "p_solar_for_heat"
+    },
+    "F22": {
+        "old_name": "p nuclear scen3x x4",
+        "new_name": "p_nuclear_scen3x_x4"
+    },
+    "H22": {
+        "old_name": "start year nuclear growth scen3x x4",
+        "new_name": "start_year_nuclear_growth_scen3x_x4"
+    },
+    "D19": {
+        "old_name": "selection of nuclear scenario",
+        "new_name": "selection_of_nuclear_scenario"
+    },
+    "E99": {
+        "old_name": "unlimited coal quest",
+        "new_name": "unlimited_coal_quest"
+    },
+    "E104": {
+        "old_name": "unlimited uranium quest",
+        "new_name": "unlimited_uranium_quest"
+    },
+    "E83": {
+        "old_name": "unlimited gas quest",
+        "new_name": "unlimited_gas_quest"
+    },
+    "E67": {
+        "old_name": "unlimited oil quest",
+        "new_name": "unlimited_oil_quest"
+    },
+    "C119": {
+        "old_name": "activate elf by scen quest",
+        "new_name": "activate_elf_by_scen_quest"
+    },
+    "C25": {
+        "old_name": "max pe geot elec twth",
+        "new_name": "max_pe_geot_elec_twth"
+    },
+    "C56": {
+        "old_name": "geot pe potential for heat twth",
+        "new_name": "geot_pe_potential_for_heat_twth"
+    },
+    "C41": {
+        "old_name": "max npp potential bioe residues",
+        "new_name": "max_npp_potential_bioe_residues"
+    },
+    "C47": {
+        "old_name": "p biofuels 3gen land compet",
+        "new_name": "p_biofuels_3gen_land_compet"
+    },
+    "C48": {
+        "old_name": "start year bioe residues for non biofuels",
+        "new_name": "start_year_bioe_residues_for_non_biofuels"
+    },
+    "C50": {
+        "old_name": "p bioe residues",
+        "new_name": "p_bioe_residues"
+    },
+    "C49": {
+        "old_name": "share cellulosic biofuels vs bioe residues",
+        "new_name": "share_cellulosic_biofuels_vs_bioe_residues"
+    },
+    "C45": {
+        "old_name": "p biofuels 2gen land compet",
+        "new_name": "p_biofuels_2gen_land_compet"
+    },
+    "C29": {
+        "old_name": "max offshore wind twe",
+        "new_name": "max_offshore_wind_twe"
+    },
+    "C83": {
+        "old_name": "separate conv and unconv gas quest",
+        "new_name": "separate_conv_and_unconv_gas_quest"
+    },
+    "D76": {
+        "old_name": "choose extraction curve tot agg oil",
+        "new_name": "choose_extraction_curve_tot_agg_oil"
+    },
+    "D92": {
+        "old_name": "choose extraction tot agg gas curve",
+        "new_name": "choose_extraction_tot_agg_gas_curve"
+    },
+    "C67": {
+        "old_name": "separate conv and unconv oil quest",
+        "new_name": "separate_conv_and_unconv_oil_quest"
+    },
+    "D105": {
+        "old_name": "choose extraction uranium curve",
+        "new_name": "choose_extraction_uranium_curve"
+    },
+    "D100": {
+        "old_name": "choose extraction coal curve",
+        "new_name": "choose_extraction_coal_curve"
+    },
+    "D96": {
+        "old_name": "selection constraint extraction unconv gas",
+        "new_name": "selection_constraint_extraction_unconv_gas"
+    },
+    "C96": {
+        "old_name": "p constraint growth extraction unconv gas",
+        "new_name": "p_constraint_growth_extraction_unconv_gas"
+    },
+    "D88": {
+        "old_name": "choose extraction curve unconv gas",
+        "new_name": "choose_extraction_curve_unconv_gas"
+    },
+    "D72": {
+        "old_name": "choose extraction curve unconv oil",
+        "new_name": "choose_extraction_curve_unconv_oil"
+    },
+    "B65": {
+        "old_name": "activate affores program",
+        "new_name": "activate_affores_program"
+    },
+    "D68": {
+        "old_name": "choose extraction curve conv oil",
+        "new_name": "choose_extraction_curve_conv_oil"
+    },
+    "D84": {
+        "old_name": "choose extraction conv gas curve",
+        "new_name": "choose_extraction_conv_gas_curve"
+    },
+    "C24": {
+        "old_name": "max hydro twe",
+        "new_name": "max_hydro_twe"
+    },
+    "C27": {
+        "old_name": "max oceanic twe",
+        "new_name": "max_oceanic_twe"
+    },
+    "C28": {
+        "old_name": "max onshore wind twe",
+        "new_name": "max_onshore_wind_twe"
+    },
+    "C110": {
+        "old_name": "p ctl",
+        "new_name": "p_ctl"
+    },
+    "C112": {
+        "old_name": "p gtl",
+        "new_name": "p_gtl"
+    },
+    "C46": {
+        "old_name": "start year 3gen cellulosic biofuels",
+        "new_name": "start_year_3gen_cellulosic_biofuels"
+    },
+    "D80": {
+        "old_name": "selection constraint extraction unconv oil",
+        "new_name": "selection_constraint_extraction_unconv_oil"
+    },
+    "C80": {
+        "old_name": "p constraint growth extraction unconv oil",
+        "new_name": "p_constraint_growth_extraction_unconv_oil"
+    }
+}
