@@ -1,0 +1,13 @@
+﻿bus_id,name,vn_kv,population,demand_share,power_p_mw,power_q_mvar,power_s
+0,North,115,1653872,0.2547,875,424,972
+1,Central 1,115,1859275,0.2864,984,476,1093
+2,Central 2,115,1635440,0.2519,865,419,961
+3,South,115,1343641,0.207,711,344,790
+4,Thailand_north,230,,,2250,1090,2500
+5,Thailand_central1,230,,,2250,1090,2500
+6,Thailand_central2,115,,,2250,1090,2500
+7,Thailand_south,115,,,2250,1090,2500
+8,Vietnam,230,,,5000,2422,5556
+9,Cambodia,115,,,1500,726,1667
+10,Myanmar,115,,,400,194,444
+11,China,115,,,2000,969,2222
