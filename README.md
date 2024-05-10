@@ -28,6 +28,7 @@ On top on these four nodes, we added the import and export nodes Thailand is con
 - **`thai_power_calculations.xlsx`**: Additional calculations to understand projected constaints.
 -  **`thai.shp` and `thai.shx`**: Shape files used to match coordinate graphing with lines and buses.
 - **figures/**: We saved the main figures we used for our report here.
+    -`base`: figure demonstraing line loading under analyzed 2024 constraints.
     - `2020_with_pink_upgrades`: figure that highlights where the pink color highlights where new lines must be added to ensure admissible 2050 constraints.  
     - `2050_with_voltage_upgrades`: figure that highlights high lines loads under higher 2050 generation and consumption loads.  
 
