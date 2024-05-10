@@ -38,3 +38,4 @@ On top on these four nodes, we added the import and export nodes Thailand is con
 - **`api.md`**: API documentation.
 - **`user-guide.md`**: User guide for using the software.
   
+Special thanks to Team Laos from the previous year for a reference skeleton for this work!
